@@ -1,0 +1,5 @@
+{
+  "name": "Holiday Mug Prompt Generator",
+  "description": "A festive application that generates creative prompts for holiday mug designs and then uses the Gemini API to bring those ideas to life as beautiful images.",
+  "requestFramePermissions": []
+}
